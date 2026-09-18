@@ -1,0 +1,1 @@
+{"description": "Modern CLI tools for pi: rg/fd/fzf/sg/bat/eza skills + enforcement extension", "keywords": ["pi-package"], "license": "MIT", "name": "@zfadhli/pi-setup", "pi": {"extensions": ["./extensions"], "skills": ["./skills"]}, "version": "0.1.0"}

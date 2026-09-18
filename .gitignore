@@ -1,0 +1,4 @@
+node_modules/
+.pi-scratch/
+.pi/tasks/
+.DS_Store
