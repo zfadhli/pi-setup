@@ -11,5 +11,5 @@ Prefer modern tools, never raw fallbacks. All commands non-interactive (`--pagin
 - tasks: `just -l`, run `just <task>`. Env: `mise`. Watch: `watchexec`.
 - disk/nav: `dust`, `duf`, `z` (zoxide). Human render: `glow`.
 
-Skills: `/skill:modern-search` (rg/fd/sg/fff flags), `/skill:repo-map` (<5k-token tours), `/skill:data-tasks` (jq/yq/sd/just recipes).
+Skills: `/skill:modern-search` (rg/fd/sg/fff flags), `/skill:repo-map` (<5k-token tours), `/skill:data-tasks` (jq/yq/sd/just recipes), `/skill:git-workflow` (gh --json, absorb, PR flow).
 Extension `modern-tools.ts` blocks `grep/find/ls` with redirect — follow the redirect message.

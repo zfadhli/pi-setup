@@ -23,6 +23,7 @@ pi install git:github.com/zfadhli/pi-setup
 | `skills/modern-search/` | `/skill:modern-search` — fd/rg/sg/fff + fzf recipes |
 | `skills/repo-map/` | `/skill:repo-map` — <5k-token repo tours (eza + tokei) |
 | `skills/data-tasks/` | `/skill:data-tasks` — jq/yq/sd/just/mise/watchexec recipes |
+| `skills/git-workflow/` | `/skill:git-workflow` — gh --json for agents, lazygit for humans |
 | `extensions/modern-tools.ts` | Blocks `grep`/`find`/`ls` with redirect + `repo_map` tool |
 | `AGENTS.md` | Preference bullets — copy to `~/.pi/agent/AGENTS.md` for global effect |
 
